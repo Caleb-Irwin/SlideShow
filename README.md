@@ -27,3 +27,4 @@ new slideShow("demo", [
 -  _instance_.playPause()
 -  _instance_.skipForward()
 -  _instance_.skipBackward()
+# Please feel free to contribute.

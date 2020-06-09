@@ -12,14 +12,16 @@ Created by Caleb Irwin
 <canvas id="demo" width="700" height="264"></canvas>
 ```
 5. Initilize it as follows:
-```new slideShow(id, arrayOfImageUrls, speed; optional, defalts to 4000ms)
+```
+new slideShow(id, arrayOfImageUrls, speed; optional, defalts to 4000ms)
 ```
 Example
-```new slideShow("demo", [
+```
+new slideShow("demo", [
         "https://www.guildstationers.com/images/-OP-Slider_Top/01-OP-Slider_Top.png",
         "https://www.guildstationers.com/images/-OP-Slider_Top/02-OP-Slider_Top.png",
         "https://www.guildstationers.com/images/-OP-Slider_Top/03-OP-Slider_Top.png",
-      ]);
+]);
 ```
 ## Methods
 _instance_.playPause()

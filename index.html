@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test for Slide Show</title>
+  </head>
+  <body>
+    <canvas id="demo" width="700" height="264" onclick="x.playPause()"></canvas>
+    <script src="script.js"></script>
+    <script>
+      let x = new slideShow("demo", [
+        "https://www.guildstationers.com/images/-OP-Slider_Top/01-OP-Slider_Top.png",
+        "https://www.guildstationers.com/images/-OP-Slider_Top/02-OP-Slider_Top.png",
+        "https://www.guildstationers.com/images/-OP-Slider_Top/03-OP-Slider_Top.png",
+      ]);
+    </script>
+  </body>
+</html>

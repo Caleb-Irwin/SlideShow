@@ -24,6 +24,6 @@ new slideShow("demo", [
 ]);
 ```
 ## Methods
-*_instance_.playPause()
-*_instance_.skipForward()
-*_instance_.skipBackward()
+* _instance_.playPause()
+* _instance_.skipForward()
+* _instance_.skipBackward()

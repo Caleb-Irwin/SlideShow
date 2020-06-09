@@ -2,7 +2,7 @@
 ## Great for replacing ancient flash slide shows.
 Created by Caleb Irwin
 
-##How to use:
+## How to use:
 
 1. Clone repo
 2. Copy transformed.min.js into project directory
@@ -24,6 +24,6 @@ new slideShow("demo", [
 ]);
 ```
 ## Methods
-_instance_.playPause()
-_instance_.skipForward()
-_instance_.skipBackward()
+*_instance_.playPause()
+*_instance_.skipForward()
+*_instance_.skipBackward()

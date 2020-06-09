@@ -1,5 +1,5 @@
-#A simple vannila slide show api that is compatible with IE, because people still use it, sigh...
-##Great for replacing ancient flash slide shows.
+# A simple vannila slide show api that is compatible with IE, because people still use it, sigh...
+## Great for replacing ancient flash slide shows.
 Created by Caleb Irwin
 
 ##How to use:
@@ -21,7 +21,7 @@ Example
         "https://www.guildstationers.com/images/-OP-Slider_Top/03-OP-Slider_Top.png",
       ]);
 ```
-##Methods
+## Methods
 _instance_.playPause()
 _instance_.skipForward()
 _instance_.skipBackward()
